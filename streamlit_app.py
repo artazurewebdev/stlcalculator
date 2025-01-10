@@ -19,7 +19,7 @@ conversion_factors = {
 # Streamlit App
 st.title("STL Volume Calculator")
 
-st.write("Made for Oceana in the Future City Project")
+st.write("Made for Team Oceana in the Future City Project")
 
 st.write("Upload your STL file to calculate its volume.")
 
